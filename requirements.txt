@@ -3,5 +3,4 @@ pandas
 matplotlib
 fpdf
 numpy
-pickle
-sklearn.tree
+scikit-learn
